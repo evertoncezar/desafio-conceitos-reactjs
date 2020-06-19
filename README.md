@@ -16,8 +16,6 @@
 
 
 <center><h2>Funcionalidades da aplicação</h2></center>
-<h3>
-Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo src/App.js, e completar onde não possui código com o código para atingir os objetivos de cada funcionalidade.<h3>
 <ul>
     <li><strong>Listar os repositórios da sua API:</strong> Deve ser capaz de criar uma lista com o campo title de todos os repositórios que estão cadastrados na sua API.</li>
     <li><strong>Adicionar um repositório a sua API:</strong> Deve ser capaz de adicionar um novo item na sua API através de um botão com o texto Adicionar e, após a criação, deve ser capaz de exibir o nome dele após o cadastro.</li>
